@@ -1,7 +1,7 @@
-# clock2002
-This is the public repository for the Windows 2002 Clock app, a multi-purpose Clock app.
+# Longhorn Days Clock
+This is the public repository for the Longhorn Days Clock app, a multi-purpose Clock app.
 
-The Clock app in Windows 2002 provides a quick and easy to use modern clock app, in a much older environment.
+The Clock app in Longhorn Days provides a quick and easy to use modern clock app, in a much older environment.
 
 It features the following features:
 
